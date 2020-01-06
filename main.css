@@ -1,0 +1,68 @@
+.navbar a img{
+  width:200px;
+  height:40px;
+}
+#navid{
+  
+  color:grey;
+  font-size: 13px;
+}
+#body img{
+  width:30%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#body h2{
+text-align: center;
+}
+#body p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#bt{
+  color:white;
+
+}
+#sec{
+  background-color:whitesmoke;
+}
+#car{
+  color:rgb(177, 170, 170);
+}
+#bad{
+  float:right;
+  border-radius:15px;
+}
+.br{
+  float:left;
+}
+.fomr{
+  margin:9px;
+  padding:9px;
+  /* border: 1px solid grey; */
+  background-color: white;
+ 
+}
+#price img{
+  width: 100px;
+  height:20px;
+ 
+}
+#price img p{
+  margin:80px;
+}
+#footer{
+  background-color: whitesmoke;
+}
+#footer img{
+  width: 100px;
+  height:20px;
+  
+}
+#footer p{
+  text-align: center;
+}
+#inli{
+  text-align: center;
+}
